@@ -52,4 +52,42 @@ Currently, it uses a mock response system for demonstration purposes.
 
 ---
 
-## 📁 Project Structure
+---
+
+## 🚀 How to Run Locally
+
+1. Download or clone the repository  
+2. Open `index.html` in your browser  
+
+Or use Live Server in VS Code.
+
+---
+
+## 📌 Future Improvements
+
+- Real AI chatbot integration  
+- Backend API for live FD rates  
+- User authentication  
+- Personalized investment suggestions  
+
+---
+
+## 👩‍💻 Author
+
+**Anushka Dhiman**  
+B.Tech CSE (AI & ML)  
+VIT Bhopal University  
+
+---
+
+## 💡 Inspiration
+
+Built to simplify financial literacy and make FD investments accessible to vernacular users in India.
+
+---
+
+## 📬 Submission
+
+This project was created as part of a submission for Blostem.
+
+---
